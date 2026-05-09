@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on **Collaborative AI Scheduler** and an **AUR-based App Store for Arch Based distributions**.<br>👯 I’m looking to collaborate on **container and linux based projects**<br>🤝 I’m looking for help with **Backend Dev roadmaps**<br>🌱 I’m currently learning **Backend Dev, Containerization and Virtualization, and Operating Systems**<br>💬 Ask me about anything computer related<br>⚡ Fun fact: I've used more than a dozen linux distros in less than a ~ 6-8 months
+🔭 I’m currently working on **a CLI tool for generating file tree structures** and a **Rust-based App Store for Arch-distros distributions**.<br>👯 I’m looking to collaborate on **container and linux based projects**<br>🤝 I’m looking for help with **Devops roadmaps and advice**<br>🌱 I’m currently learning **Backend Dev, Containerization and Virtualization, and Operating Systems**<br>💬 Ask me about anything computer related<br>⚡ Fun fact: I've used more than a dozen linux distros in less than a ~ 6-8 months
 
 
 ## 🌐 Socials:
