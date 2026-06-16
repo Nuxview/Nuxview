@@ -34,7 +34,7 @@ text, tspan {white-space: pre;}
 </svg>
 </g>
 
-<text x="185" y="250" fill="#8b949e" font-size="40" font-weight="bold">+</text>
+<text x="184" y="250" fill="#8b949e" font-size="40" font-weight="bold">+</text>
 
 <g transform="translate(100,250)">
 <svg
@@ -151,6 +151,6 @@ text, tspan {white-space: pre;}
                 class="cc"
             >: ...................... </tspan><tspan
                 class="value"
-            >Project Tree, Aurora, ClubIQ</tspan></tspan>
+            >Project Tree, Pandora, ClubIQ, Open DI</tspan></tspan>
 </text>
 </svg>
