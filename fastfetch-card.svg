@@ -1,0 +1,156 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    font-family="JetBrainsMonoFallback,JetBrains Mono,monospace"
+    width="985px"
+    height="470px"
+    font-size="16px"
+>
+<style>
+@font-face {
+  src: local('JetBrains Mono');
+  font-family: 'JetBrainsMonoFallback';
+  font-display: swap;
+}
+.key {fill: #f0883e;}
+.value {fill: #a5d6ff;}
+.value2 {fill: #3fb950;}
+.cc {fill: #616e7f;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="985px" height="470px" fill="#0d1117" rx="12" />
+
+<g transform="translate(100,40)">
+<svg
+            width="200"
+            height="200"
+            viewBox="0 0 32 32"
+            fill="#1793d1"
+            xmlns="http://www.w3.org/2000/svg"
+        >
+<path
+                d="M15.188 0.807c-1.354 3.313-2.167 5.484-3.672 8.703 0.922 0.979 2.057 2.12 3.896 3.406-1.979-0.818-3.328-1.635-4.339-2.484-1.927 4.026-4.948 9.75-11.073 20.76 4.818-2.781 8.547-4.495 12.026-5.151-0.146-0.641-0.234-1.333-0.229-2.063l0.005-0.151c0.078-3.089 1.682-5.458 3.583-5.297s3.38 2.792 3.307 5.88c-0.016 0.578-0.083 1.135-0.198 1.656 3.443 0.672 7.135 2.38 11.885 5.125-0.938-1.724-1.771-3.281-2.573-4.76-1.255-0.974-2.568-2.245-5.24-3.62 1.839 0.479 3.151 1.031 4.177 1.646-8.12-15.109-8.771-17.12-11.557-23.651z"
+            />
+</svg>
+</g>
+
+<text x="185" y="250" fill="#8b949e" font-size="40" font-weight="bold">+</text>
+
+<g transform="translate(100,250)">
+<svg
+            width="200"
+            height="200"
+            viewBox="0 0 32 32"
+            xmlns="http://www.w3.org/2000/svg"
+        >
+<path
+                d="M13,11.115,6.183,23.76,4.59,20.87l1.839-3.387-3.651-.01L2,16.029l.8-1.477,5.2.018,1.868-3.447Z"
+                style="fill:#7ebae4"
+            />
+<path
+                d="M13.527,21.223h13.64l-1.541,2.922-3.658-.011,1.817,3.389-.779,1.449-1.593,0-2.584-4.825-3.722-.008Z"
+                style="fill:#7ebae4"
+            />
+<path
+                d="M21.467,15.682,14.647,3.037l3.134-.032L19.6,6.4l1.834-3.379h1.557L23.786,4.5,21.174,9.307l1.854,3.455Z"
+                style="fill:#7ebae4"
+            />
+<path
+                d="M10.542,16.324l6.821,12.645L14.229,29l-1.821-3.4-1.834,3.38H9.016l-.8-1.476L10.831,22.7,8.976,19.243Z"
+                style="fill:#5277c3"
+            />
+<path
+                d="M18.464,10.751H4.823L6.365,7.829l3.658.011L8.207,4.451,8.986,3l1.592,0,2.584,4.825,3.722.008Z"
+                style="fill:#5277c3"
+            />
+<path
+                d="M19,20.888,25.817,8.244l1.593,2.89L25.571,14.52l3.651.01L30,15.979l-.8,1.477-5.2-.018-1.868,3.447Z"
+                style="fill:#5277c3"
+            />
+</svg>
+</g>
+
+
+<text x="390" y="30" fill="#c9d1d9">
+<tspan
+            x="390"
+            y="30"
+            font-weight="bold"
+        >Nuxview@portfolio</tspan> -------------------------------------------------
+<tspan x="390" y="55"><tspan class="key">OS</tspan><tspan
+                class="cc"
+            >: ............................ </tspan><tspan
+                class="value"
+            >Arch Linux (CachyOS) x86_64</tspan></tspan>
+<tspan x="390" y="80"><tspan class="key">Shell</tspan><tspan
+                class="cc"
+            >: ......................... </tspan><tspan
+                class="value"
+            >zsh + starship</tspan></tspan>
+<tspan x="390" y="105"><tspan class="key">Editor</tspan><tspan
+                class="cc"
+            >: ........................ </tspan><tspan
+                class="value"
+            >neovim + zed + vscodium</tspan></tspan>
+<tspan x="390" y="130"><tspan class="key">Role</tspan><tspan
+                class="cc"
+            >: .......................... </tspan><tspan
+                class="value"
+            >Software Engineering Student</tspan></tspan>
+<tspan x="390" y="155"><tspan class="key">University</tspan><tspan
+                class="cc"
+            >: .................... </tspan><tspan
+                class="value"
+            >USIU-Africa</tspan></tspan>
+<tspan x="390" y="180"><tspan class="key">Location</tspan><tspan
+                class="cc"
+            >: ...................... </tspan><tspan
+                class="value"
+            >Nairobi, Kenya</tspan></tspan>
+<tspan
+            x="390"
+            y="220"
+            font-weight="bold"
+        >Languages</tspan> -----------------------------------------------------
+<tspan x="390" y="245"><tspan class="key">Python</tspan><tspan
+                class="cc"
+            >: ........................ </tspan><tspan
+                class="value2"
+            >50%</tspan></tspan>
+<tspan x="390" y="270"><tspan class="key">Rust</tspan><tspan
+                class="cc"
+            >: .......................... </tspan><tspan
+                fill="#f78166"
+            >10%</tspan></tspan>
+<tspan x="390" y="295"><tspan class="key">JS / TS</tspan><tspan
+                class="cc"
+            >: ....................... </tspan><tspan
+                fill="#e3b341"
+            >20%</tspan></tspan>
+<tspan x="390" y="320"><tspan class="key">Bash</tspan><tspan
+                class="cc"
+            >: .......................... </tspan><tspan
+                class="value"
+            >30%</tspan></tspan>
+<tspan
+            x="390"
+            y="360"
+            font-weight="bold"
+        >Contact</tspan> -------------------------------------------------------
+<tspan x="390" y="385"><tspan class="key">Email</tspan><tspan
+                class="cc"
+            >: ......................... </tspan><tspan
+                class="value"
+            >shakamaina74@gmail.com</tspan></tspan>
+<tspan x="390" y="410"><tspan class="key">GitHub</tspan><tspan
+                class="cc"
+            >: ........................ </tspan><tspan
+                fill="#d2a8ff"
+            >@Nuxview</tspan></tspan>
+<tspan x="390" y="435"><tspan class="key">Projects</tspan><tspan
+                class="cc"
+            >: ...................... </tspan><tspan
+                class="value"
+            >Project Tree, Aurora, ClubIQ</tspan></tspan>
+</text>
+</svg>
