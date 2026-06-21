@@ -27,17 +27,9 @@
 
 ---
 
-# GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Nuxview&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-
-<div align="center">
+# Stats
 
 ![GitHub Streak](https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=Nuxview&theme=%7B%22backgroundColor%22%3A%22%230f172a%22%2C%22textColor%22%3A%22%23e2e8f0%22%2C%22accentColor%22%3A%22%230ea5e9%22%2C%22borderColor%22%3A%22%231e293b%22%2C%22waterColor%22%3A%22%230ea5e9%22%2C%22streakColor%22%3A%22%2306b6d4%22%7D)
-
-</div>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuxview&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
