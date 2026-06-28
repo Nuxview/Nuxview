@@ -12,13 +12,13 @@
   font-family: 'JetBrainsMonoFallback';
   font-display: swap;
 }
-.key {fill: #f0883e;}
-.value {fill: #a5d6ff;}
-.value2 {fill: #3fb950;}
-.cc {fill: #616e7f;}
+.key {fill: #0ea5e9;}
+.value {fill: #e2e8f0;}
+.value2 {fill: #10b981;}
+.cc {fill: #334155;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="985px" height="470px" fill="#0d1117" rx="12" />
+<rect width="985px" height="470px" fill="#0f172a" rx="12" />
 
 <g transform="translate(100,40)">
 <svg
@@ -34,7 +34,7 @@ text, tspan {white-space: pre;}
 </svg>
 </g>
 
-<text x="184" y="250" fill="#8b949e" font-size="40" font-weight="bold">+</text>
+<text x="184" y="250" fill="#475569" font-size="40" font-weight="bold">+</text>
 
 <g transform="translate(100,250)">
 <svg
@@ -71,7 +71,7 @@ text, tspan {white-space: pre;}
 </g>
 
 
-<text x="390" y="30" fill="#c9d1d9">
+<text x="390" y="30" fill="#e2e8f0">
 <tspan
             x="390"
             y="30"
@@ -120,12 +120,12 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="270"><tspan class="key">Rust</tspan><tspan
                 class="cc"
             >: .......................... </tspan><tspan
-                fill="#f78166"
+                fill="#fb923c"
             >10%</tspan></tspan>
 <tspan x="390" y="295"><tspan class="key">JS / TS</tspan><tspan
                 class="cc"
             >: ....................... </tspan><tspan
-                fill="#e3b341"
+                fill="#f59e0b"
             >20%</tspan></tspan>
 <tspan x="390" y="320"><tspan class="key">Bash</tspan><tspan
                 class="cc"
@@ -145,7 +145,7 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="410"><tspan class="key">GitHub</tspan><tspan
                 class="cc"
             >: ........................ </tspan><tspan
-                fill="#d2a8ff"
+                fill="#a78bfa"
             >@Nuxview</tspan></tspan>
 <tspan x="390" y="435"><tspan class="key">Projects</tspan><tspan
                 class="cc"

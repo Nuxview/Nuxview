@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="860" height="195" viewBox="0 0 860 195">
+  <defs>
+    <style>
+      @font-face { src: local('JetBrains Mono'); font-family: JetBrainsMono; font-display: swap; }
+    </style>
+    <clipPath id="avatarClip">
+      <circle cx="78" cy="80" r="43"/>
+    </clipPath>
+  </defs>
+
+  <!-- Card background -->
+  <rect width="860" height="195" rx="14" fill="#0f172a"/>
+  <rect width="860" height="195" rx="14" fill="none" stroke="#1e293b" stroke-width="1.5"/>
+
+  <!-- Fire emoji -->
+  <text x="836" y="38" text-anchor="middle" font-family="serif" font-size="20">🔥</text>
+
+  <!-- ── LEFT: Avatar ── -->
+  <circle cx="78" cy="80" r="50" fill="none" stroke="#0ea5e9" stroke-width="1.5" opacity="0.3"/>
+  <circle cx="78" cy="80" r="46" fill="none" stroke="#0ea5e9" stroke-width="2.5"/>
+  <!-- Avatar: monogram placeholder (run update.py to embed real avatar) -->
+  <circle cx="78" cy="80" r="43" fill="#0c1a2e"/>
+  <text x="78" y="89" text-anchor="middle" fill="#0ea5e9"
+        font-family="JetBrainsMono, 'JetBrains Mono', monospace"
+        font-size="28" font-weight="700">N</text>
+
+  <!-- Username -->
+  <text x="78" y="149" text-anchor="middle" fill="#e2e8f0"
+        font-family="JetBrainsMono, 'JetBrains Mono', monospace"
+        font-size="14" font-weight="700">Nuxview</text>
+  <!-- Since year -->
+  <text x="78" y="166" text-anchor="middle" fill="#64748b"
+        font-family="JetBrainsMono, 'JetBrains Mono', monospace"
+        font-size="11">Since 2023</text>
+
+  <!-- Divider 1 -->
+  <line x1="165" y1="20" x2="165" y2="175" stroke="#1e293b" stroke-width="1.5"/>
+
+  <!-- ── CENTER: Streak circle ── -->
+  <circle cx="252" cy="82" r="58" fill="#0ea5e9" fill-opacity="0.05"/>
+  <circle cx="252" cy="82" r="52" fill="#051e2c" stroke="#0ea5e9" stroke-width="2.5"/>
+  <text x="252" y="76" text-anchor="middle" fill="#0ea5e9"
+        font-family="JetBrainsMono, 'JetBrains Mono', monospace"
+        font-size="30" font-weight="700">17</text>
+  <text x="252" y="97" text-anchor="middle" fill="#94a3b8"
+        font-family="JetBrainsMono, 'JetBrains Mono', monospace"
+        font-size="12">days</text>
+  <text x="252" y="152" text-anchor="middle" fill="#0ea5e9"
+        font-family="JetBrainsMono, 'JetBrains Mono', monospace"
+        font-size="12" font-weight="600">Current Streak</text>
+
+  <!-- Divider 2 -->
+  <line x1="340" y1="20" x2="340" y2="175" stroke="#1e293b" stroke-width="1.5"/>
+
+  <!-- ── RIGHT: Stats grid ── -->
+
+  <!-- Total Contributions -->
+  <text x="367" y="48" fill="#64748b"
+        font-family="JetBrainsMono, 'JetBrains Mono', monospace" font-size="11">Total Contributions</text>
+  <text x="367" y="72" fill="#0ea5e9"
+        font-family="JetBrainsMono, 'JetBrains Mono', monospace" font-size="22" font-weight="700">449</text>
+
+  <!-- Longest Streak -->
+  <text x="620" y="48" fill="#64748b"
+        font-family="JetBrainsMono, 'JetBrains Mono', monospace" font-size="11">Longest Streak</text>
+  <text x="620" y="72" fill="#06b6d4"
+        font-family="JetBrainsMono, 'JetBrains Mono', monospace" font-size="22" font-weight="700">17 days</text>
+
+  <!-- Repositories -->
+  <text x="367" y="104" fill="#64748b"
+        font-family="JetBrainsMono, 'JetBrains Mono', monospace" font-size="11">Repositories</text>
+  <text x="367" y="128" fill="#e2e8f0"
+        font-family="JetBrainsMono, 'JetBrains Mono', monospace" font-size="22" font-weight="700">39</text>
+
+  <!-- Followers -->
+  <text x="620" y="104" fill="#64748b"
+        font-family="JetBrainsMono, 'JetBrains Mono', monospace" font-size="11">Followers</text>
+  <text x="620" y="128" fill="#e2e8f0"
+        font-family="JetBrainsMono, 'JetBrains Mono', monospace" font-size="22" font-weight="700">0</text>
+
+  <!-- Top Languages label + names -->
+  <text x="367" y="153" fill="#64748b"
+        font-family="JetBrainsMono, 'JetBrains Mono', monospace" font-size="11">Top Languages</text>
+  <text x="838" y="153" text-anchor="end" fill="#e2e8f0"
+        font-family="JetBrainsMono, 'JetBrains Mono', monospace"
+        font-size="11" font-weight="600">Python &#x2022; TypeScript</text>
+
+  <!-- Language bar  (x 367–838 = 471 px total; 5 segs + 4×2 px gaps) -->
+  <rect x="367" y="162" width="232" height="7" rx="3" fill="#3b82f6"/><!-- Python   50% -->
+  <rect x="601" y="162" width="116" height="7" rx="3" fill="#06b6d4"/><!-- TypeScript 25% -->
+  <rect x="719" y="162" width="46"  height="7" rx="3" fill="#f59e0b"/><!-- JS       10% -->
+  <rect x="767" y="162" width="37"  height="7" rx="3" fill="#10b981"/><!-- Shell     8% -->
+  <rect x="806" y="162" width="32"  height="7" rx="3" fill="#475569"/><!-- Other     7% -->
+
+  <!-- Footer -->
+  <text x="18" y="188" fill="#334155"
+        font-family="JetBrainsMono, 'JetBrains Mono', monospace"
+        font-size="10">Updated: 6/27/2026 &#x2022; Avatar: Placeholder</text>
+</svg>

@@ -1,0 +1,40 @@
+name: Update Profile Stats
+
+on:
+  schedule:
+    - cron: '0 */8 * * *'   # every 8 hours
+  workflow_dispatch:          # manual trigger from the Actions tab
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write         # needed to push the regenerated SVGs
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Generate SVGs
+        env:
+          # The built-in GITHUB_TOKEN has read access to your public GitHub data.
+          # For contribution/streak data via GraphQL, create a PAT with read:user
+          # scope and store it as a secret named MY_GITHUB_TOKEN, then change the
+          # line below to:  GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: Nuxview
+        run: python update.py
+
+      - name: Commit updated SVGs
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add github-stats.svg dev-quote.svg
+          git diff --staged --quiet \
+            || git commit -m "chore: refresh stats and quote [skip ci]"
+          git push

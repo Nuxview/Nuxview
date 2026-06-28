@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="860" height="150" viewBox="0 0 860 150">
+  <defs>
+    <style>
+      @font-face { src: local('JetBrains Mono'); font-family: JetBrainsMono; font-display: swap; }
+    </style>
+  </defs>
+
+  <!-- Card background -->
+  <rect width="860" height="150" rx="12" fill="#0f172a"/>
+  <rect width="860" height="150" rx="12" fill="none" stroke="#1e293b" stroke-width="1.5"/>
+
+  <!-- Decorative opening quote mark -->
+  <text x="24" y="78" font-family="Georgia, 'Times New Roman', serif"
+        font-size="54" fill="#6366f1" opacity="0.85">&#x201C;</text>
+
+  <!-- Quote text (italic) -->
+  <text font-family="JetBrainsMono, 'JetBrains Mono', monospace"
+        font-size="14" font-style="italic" fill="#a5b4fc">
+    <tspan x="52" y="62">From an artistic standpoint, the best software comes from the</tspan>
+    <tspan x="52" y="88">realm of intuition.&#x201D;</tspan>
+  </text>
+
+  <!-- Author -->
+  <text x="836" y="130" text-anchor="end"
+        font-family="JetBrainsMono, 'JetBrains Mono', monospace"
+        font-size="12" fill="#64748b">- Bob Carr</text>
+</svg>
