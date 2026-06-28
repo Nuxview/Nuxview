@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-     width="860" height="195" viewBox="0 0 860 195">
+     width="985" height="195" viewBox="0 0 985 195">
   <defs>
     <style>
       @font-face { src: local('JetBrains Mono'); font-family: JetBrainsMono; font-display: swap; }
@@ -11,11 +11,11 @@
   </defs>
 
   <!-- Card background -->
-  <rect width="860" height="195" rx="14" fill="#0f172a"/>
-  <rect width="860" height="195" rx="14" fill="none" stroke="#1e293b" stroke-width="1.5"/>
+  <rect width="985" height="195" rx="14" fill="#0f172a"/>
+  <rect width="985" height="195" rx="14" fill="none" stroke="#1e293b" stroke-width="1.5"/>
 
   <!-- Fire emoji -->
-  <text x="836" y="38" text-anchor="middle" font-family="serif" font-size="20">🔥</text>
+  <text x="945" y="38" text-anchor="middle" font-family="serif" font-size="20">🔥</text>
 
   <!-- ── LEFT: Avatar ── -->
   <circle cx="78" cy="80" r="50" fill="none" stroke="#0ea5e9" stroke-width="1.5" opacity="0.3"/>
@@ -94,8 +94,4 @@
   <rect x="767" y="162" width="37"  height="7" rx="3" fill="#10b981"/><!-- Shell     8% -->
   <rect x="806" y="162" width="32"  height="7" rx="3" fill="#475569"/><!-- Other     7% -->
 
-  <!-- Footer -->
-  <text x="18" y="188" fill="#334155"
-        font-family="JetBrainsMono, 'JetBrains Mono', monospace"
-        font-size="10">Updated: 6/27/2026 &#x2022; Avatar: Placeholder</text>
 </svg>
