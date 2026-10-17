@@ -69,7 +69,7 @@
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top"><h3><a href="https://github.com/Nuxview/Script-City">Script-City</a></h3><p>A collection of various bash scripts made to make like just that bit easier</p><p><sub>Shell · ⭐ 1</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/Nuxview/Script-City">Script-City</a></h3><p>A collection of various bash scripts made to make life just that bit easier</p><p><sub>Shell · ⭐ 1</sub></p></td>
 <td width="33%" valign="top"><h3><a href="https://github.com/Nuxview/Prod-ClubIQ">Prod-ClubIQ</a></h3><p>A Club Tracker for smart club management.</p><p><sub>TypeScript · ⭐ 1</sub></p></td>
 </tr>
 </table>
