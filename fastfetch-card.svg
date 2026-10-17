@@ -2,7 +2,7 @@
 <svg
     xmlns="http://www.w3.org/2000/svg"
     font-family="JetBrainsMonoFallback,JetBrains Mono,monospace"
-    width="1025px"
+    width="1100px"
     height="470px"
     font-size="16px"
 >
@@ -18,7 +18,7 @@
 .cc {fill: #616e7f;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="985px" height="470px" fill="#0d1117" rx="12" />
+<rect width="1100px" height="470px" fill="#0d1117" rx="12" />
 
 <g transform="translate(100,40)">
 <svg
