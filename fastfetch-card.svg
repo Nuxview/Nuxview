@@ -2,7 +2,7 @@
 <svg
     xmlns="http://www.w3.org/2000/svg"
     font-family="JetBrainsMonoFallback,JetBrains Mono,monospace"
-    width="985px"
+    width="1025px"
     height="470px"
     font-size="16px"
 >
@@ -81,7 +81,7 @@ text, tspan {white-space: pre;}
                 class="cc"
             >: ............................ </tspan><tspan
                 class="value"
-            >Arch Linux (CachyOS) x86_64</tspan></tspan>
+            >CachyOS x86_64</tspan></tspan>
 <tspan x="390" y="80"><tspan class="key">Shell</tspan><tspan
                 class="cc"
             >: ......................... </tspan><tspan
@@ -91,7 +91,7 @@ text, tspan {white-space: pre;}
                 class="cc"
             >: ........................ </tspan><tspan
                 class="value"
-            >neovim + zed + vscodium</tspan></tspan>
+            >neovim + zed</tspan></tspan>
 <tspan x="390" y="130"><tspan class="key">Role</tspan><tspan
                 class="cc"
             >: .......................... </tspan><tspan
@@ -141,7 +141,7 @@ text, tspan {white-space: pre;}
                 class="cc"
             >: ......................... </tspan><tspan
                 class="value"
-            >shakamaina74@gmail.com</tspan></tspan>
+            >nuxview24@gmail.com</tspan></tspan>
 <tspan x="390" y="410"><tspan class="key">GitHub</tspan><tspan
                 class="cc"
             >: ........................ </tspan><tspan
@@ -151,6 +151,6 @@ text, tspan {white-space: pre;}
                 class="cc"
             >: ...................... </tspan><tspan
                 class="value"
-            >Project Tree, Pandora, ClubIQ, Open DI</tspan></tspan>
+            >Project Tree, Pandora, ClubIQ, Yeetus</tspan></tspan>
 </text>
 </svg>
